@@ -13,7 +13,7 @@ The motivation behind this project was to build a working application that gener
 
 
 ## License:
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2023 Austin Drury
 
@@ -37,10 +37,15 @@ SOFTWARE.
 
 ## Testing:
 To run the tests for the SVG Logo Generator, follow these steps:
-1. Ensure that you have installed the dependencies by running:    
+1. Ensure that you have installed the dependencies (part 1/2) by running:    
     ```bash 
-    npm i jest
-2. Run the following command to execute the test file:
+    npm install --save inquirer
+
+2. Ensure that you have installed the dependencies (part 2/2) by running:    
+    ```bash 
+    npm i jest 
+
+3. Run the following command to execute the test file:
     ```bash 
     npm run test
 
@@ -72,4 +77,4 @@ Upon completion of the challenge, I'd referenced:
 - With a <i><b>MASSIVE</i></b> shoutout to my classmate, <b><u>Lacey Trokey</b></u>, who really helped me see things clearer when it came to utilizing of the test files.
 
 ## Usage/Demonstration:
-You can watch my walkthrough video [here](linkhere).
+You can watch my walkthrough video, going over how to install and use the application and features [here](https://drive.google.com/file/d/1TgXhrvrH0K8qQE2SvTX4qyvX1mJu0p-F/view).
