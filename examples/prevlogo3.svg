@@ -1,0 +1,7 @@
+
+      <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+        <rect width="300" height="200" fill="blue" />
+        <polygon points="150,33.333333333333336 250,166.66666666666666 50,166.66666666666666" fill="silver" />
+        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="undefined">SVG</text>
+      </svg>
+    
